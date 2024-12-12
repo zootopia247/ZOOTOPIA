@@ -3,7 +3,7 @@
   "symbol": "ZOOTS",
   "description": "ZOOTOPIA is a revolutionary token in the Solana ecosystem. Explore its potential with exclusive metadata.",
   "image": "https://raw.githubusercontent.com/nghia243/sol-token/main/image.png",
-  "uri": "https://raw.githubusercontent.com/nghia243/sol-token/main/metadata.json",
+  "uri": "https://raw.githubusercontent.com/zootopia247/ZOOTOPIA/refs/heads/main/metadata.json",
   "seller_fee_basis_points": 500, 
   "attributes": [
     { "trait_type": "Type", "value": "Utility" },
