@@ -1,6 +1,28 @@
 {
-  "name":"ZOOTOPIA",
-  "symbol":"ZOOTS",
-  "description"":"In a city of anthropomorphic animals, a rookie bunny cop and a cynical con artist fox must work together to uncover a conspiracy!",
-  "image":"https://raw.githubusercontent.com/nghia243/sol-token/main/549dc29fe37c5922006d.jpg"
+  "name": "ZOOTOPIA",
+  "symbol": "ZOOTS",
+  "description": "ZOOTOPIA is a revolutionary token in the Solana ecosystem. Explore its potential with exclusive metadata.",
+  "image": "https://raw.githubusercontent.com/nghia243/sol-token/main/image.png",
+  "uri": "https://raw.githubusercontent.com/nghia243/sol-token/main/metadata.json",
+  "seller_fee_basis_points": 500, 
+  "attributes": [
+    { "trait_type": "Type", "value": "Utility" },
+    { "trait_type": "Network", "value": "Solana" }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/nghia243/sol-token/main/image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  },
+  "creators": [
+    {
+      "address": "8WrdzVgnD35mtFEBTLYDWbAdf9kkva6Bc48ZkJUoGMoD",
+      "verified": true,
+      "share": 100
+    }
+  ]
 }
